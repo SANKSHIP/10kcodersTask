@@ -1,0 +1,64 @@
+.Empty{
+    width: 100%;
+    height: 17px;
+   
+}
+
+.EmptySpace{
+    float: left;
+    width: 197px;
+    height: 600px;
+    
+}
+
+.Home{
+    color: rgb(61, 59, 59);
+    float: left;
+    background-color: rgba(131, 145, 162, 0.018);
+    border: none;
+    font-size: larger;
+    margin-top: 25px; margin-left: 28px; margin-bottom: 31.5px;
+}
+.Homes{
+    color: rgb(61, 59, 59);
+    border: none;
+    float: left;
+    background-color: rgba(131, 145, 162, 0.018);
+    font-size: larger; margin-left: 167px; margin-top: 25px;
+}
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    font-size: 17px;color: rgba(44, 41, 41, 0.768);
+    margin-bottom: 33px;
+    width: 600px;
+}
+.article{
+    float: left;
+    width: 645px; 
+    height: 517px;
+
+}
+.section{
+    float: left;
+}
+.p2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 21px;
+    line-height: 33px; margin-bottom: 35px;
+    width: 600px;
+    color: rgb(61, 59, 59);
+}
+.Join{
+    background-color: rgb(252, 118, 0);
+    color: white;
+    width: 260px;
+    height: 65px;
+    border-radius: 10px;
+    font-size: 23px;
+    border: none;
+}
+#p3{
+    line-height: 30px;
+    color: rgba(44, 41, 41, 0.90) ;
+}
